@@ -1,0 +1,6 @@
+version=1
+id=
+title=Buffout
+description=Adds Buffout to the game.
+tags=
+visibility=public

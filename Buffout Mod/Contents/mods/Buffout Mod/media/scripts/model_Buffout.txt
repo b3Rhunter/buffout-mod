@@ -1,0 +1,7 @@
+module Base {
+    model Buffout {
+        mesh    = WorldItems/Buffout,
+        scale   = 0.017,
+        texture = WorldItems/Texture_Buffout,
+    }
+}

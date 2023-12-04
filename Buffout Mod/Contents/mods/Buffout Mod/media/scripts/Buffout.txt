@@ -1,0 +1,35 @@
+module BUF
+{
+    imports    
+    {
+		Base
+	}
+
+    item Buffout
+	{
+		HungerChange	    =	-20,
+		Weight      	    =	0.2,
+		AlwaysWelcomeGift	=	TRUE,
+		Type	            =	Food,
+		ThirstChange	    =	-100,
+		DisplayName	        =	Buffout,
+		DisplayCategory     = 	Food,
+		Icon	            =	Buffout,
+		CustomContextMenu   =   Drink,
+		CustomEatSound      =   nuka-drink-sound,
+        Carbohydrates       =   66,
+        Proteins            =   33,
+        Lipids              =   33,
+        Calories            =   33,
+		BoredomChange       = 	-20,
+        UnhappyChange       = 	-20,
+		StressChange        = 	-10,
+        CantBeFrozen        =   TRUE,
+        StaticModel         =   Buffout,
+		WorldStaticModel    = 	Buffout,
+        EatType             =   popcan,
+	}
+}
+
+
+	
