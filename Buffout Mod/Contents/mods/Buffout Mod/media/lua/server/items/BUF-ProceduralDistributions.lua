@@ -3,7 +3,7 @@ local function preDistributionMerge()
     ProceduralDistributions.list.BurgerKitchenFridge = {
         rolls = 4,
         items = {
-            "NUK.NukaCola", 10,
+            "BUF.Buffout", 10,
             "MeatPatty", 8,
             "MeatPatty", 8,
             "MeatPatty", 8,
@@ -26,7 +26,7 @@ local function preDistributionMerge()
     ProceduralDistributions.list.FridgeSoda = {
         rolls = 4,
         items = {
-            "NUK.NukaCola", 10,
+            "BUF.Buffout", 10,
             "Pop", 4,
             "Pop", 4,
             "Pop2", 4,
@@ -43,7 +43,7 @@ local function preDistributionMerge()
     ProceduralDistributions.list.FridgeOther = {
         rolls = 4,
         items = {
-            "NUK.NukaCola", 10,
+            "BUF.Buffout", 10,
             "Milk", 4,
             "Milk", 4,
             "EggCarton", 2,
@@ -65,7 +65,7 @@ local function preDistributionMerge()
     ProceduralDistributions.list.GigamartBottles = {
         rolls = 4,
         items = {
-            "NUK.NukaCola", 10, 
+            "BUF.Buffout", 10, 
             "WaterBottleFull", 8,
             "WaterBottleFull", 8,
             "WaterBottleFull", 8,
@@ -84,7 +84,7 @@ local function preDistributionMerge()
     ProceduralDistributions.list.SpiffosKitchenFridge = {
         rolls = 4,
         items = {
-            "NUK.NukaCola", 10, 
+            "BUF.Buffout", 10, 
             "MeatPatty", 10,
             "MeatPatty", 10,
             "MeatPatty", 10,
@@ -107,7 +107,7 @@ local function preDistributionMerge()
     ProceduralDistributions.list.TheatreDrinks = {
         rolls = 4,
         items = {
-            "NUK.NukaCola", 10, 
+            "BUF.Buffout", 10, 
             "Pop", 8,
             "Pop", 8,
             "Pop2", 8,
@@ -124,7 +124,7 @@ local function preDistributionMerge()
     ProceduralDistributions.list.StoreShelfDrinks = {
         rolls = 4,
         items = {
-            "NUK.NukaCola", 10, 
+            "BUF.Buffout", 10, 
             "Pop", 4,
             "Pop", 4,
             "Pop2", 4,
